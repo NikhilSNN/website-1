@@ -1,2 +1,2 @@
 # website-1
-Web site by HTML and CSS.!
+Static website using HTML and CSS.
